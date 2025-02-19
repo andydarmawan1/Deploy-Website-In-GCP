@@ -8,7 +8,6 @@ Sebelum memulai, pastikan kamu sudah memiliki:
 - **Google Cloud SDK** terinstall di lokal (opsional)
 - **Billing aktif** di Google Cloud
 - **Domain** (jika ingin menggunakan custom domain)
-  ![Uploading Screenshot 2025-02-11 at 15.09.27.png…]()
   
 ![alt text](https://github.com/andydarmawan1/Deploy-Website-In-GCP/blob/main/1717663591205.jpeg?raw=true)
 
