@@ -10,6 +10,8 @@ Sebelum memulai, pastikan kamu sudah memiliki:
 - **Domain** (jika ingin menggunakan custom domain)
   
 ![alt text](https://github.com/andydarmawan1/Deploy-Website-In-GCP/blob/main/1717663591205.jpeg?raw=true)
+<img src="1717663591205.jpeg" width="500" height="300">
+
 
 ## 📌 Langkah 1: Buat Virtual Machine (VM) di Compute Engine
 1. **Buka Google Cloud Console**
