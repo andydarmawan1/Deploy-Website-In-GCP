@@ -8,6 +8,8 @@ Sebelum memulai, pastikan kamu sudah memiliki:
 - **Google Cloud SDK** terinstall di lokal (opsional)
 - **Billing aktif** di Google Cloud
 - **Domain** (jika ingin menggunakan custom domain)
+  ![Uploading Screenshot 2025-02-11 at 15.09.27.png…]()
+
 
 ## 📌 Langkah 1: Buat Virtual Machine (VM) di Compute Engine
 1. **Buka Google Cloud Console**
